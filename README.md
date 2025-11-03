@@ -5,7 +5,7 @@
 Хід роботи
 <img width="966" height="225" alt="image" src="https://github.com/user-attachments/assets/06495741-f387-4672-a307-8554978e0754" />
 13. Добуток чисел, кратних 5.
-
+<img width="1180" height="253" alt="image" src="https://github.com/user-attachments/assets/ae882ff4-2654-4bf4-9024-721cb42793d4" />
 
 <img width="983" height="238" alt="image" src="https://github.com/user-attachments/assets/cf374a70-9c86-412e-84f0-308ba450541d" />
 <img width="836" height="67" alt="image" src="https://github.com/user-attachments/assets/7b7e7944-df19-45d8-8f44-82d962b71587" />
@@ -14,7 +14,7 @@
 <img width="954" height="201" alt="image" src="https://github.com/user-attachments/assets/d6d8138d-ccb1-4f65-b37a-c003845182a5" />
 <img width="969" height="461" alt="image" src="https://github.com/user-attachments/assets/70b7502a-9011-4ebf-9ad6-b16a805d8fb5" />
 <img width="1196" height="794" alt="image" src="https://github.com/user-attachments/assets/c3753912-52c0-4ee8-b62f-8661ff29039e" />
-исновок:  
+Висновок:  
 # ✅ Чек-лист знань  
 **Тема:** Робота з файлами в C++
 
