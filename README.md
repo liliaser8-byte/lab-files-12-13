@@ -5,6 +5,9 @@
 Хід роботи
 <img width="966" height="225" alt="image" src="https://github.com/user-attachments/assets/06495741-f387-4672-a307-8554978e0754" />
 13. Добуток чисел, кратних 5.
+Програма зчитує числа з файлу number.txt і знаходить добуток усіх чисел, кратних 5.
+Якщо такі числа є — виводиться їхній добуток, якщо ні — повідомлення про їх відсутність.
+Код демонструє роботу з файлами та перевірку чисел за заданою умовою.
 <img width="1180" height="253" alt="image" src="https://github.com/user-attachments/assets/ae882ff4-2654-4bf4-9024-721cb42793d4" />
 
 <img width="983" height="238" alt="image" src="https://github.com/user-attachments/assets/cf374a70-9c86-412e-84f0-308ba450541d" />
