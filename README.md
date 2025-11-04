@@ -19,6 +19,10 @@
 <img width="954" height="201" alt="image" src="https://github.com/user-attachments/assets/d6d8138d-ccb1-4f65-b37a-c003845182a5" />
 <img width="969" height="461" alt="image" src="https://github.com/user-attachments/assets/70b7502a-9011-4ebf-9ad6-b16a805d8fb5" />
 <img width="1196" height="794" alt="image" src="https://github.com/user-attachments/assets/c3753912-52c0-4ee8-b62f-8661ff29039e" />
+Ця програма створює структуру Zodiak, яка зберігає дані про людей:
+прізвище та ім’я, знак Зодіаку та дату народження.
+Вона дозволяє ввести інформацію про 8 осіб, відсортувати їх за місяцем народження,
+знайти всіх, народжених у певному місяці, і зберегти результати у файл results.txt.
 Висновок:  
 # ✅ Чек-лист знань  
 **Тема:** Робота з файлами в C++
